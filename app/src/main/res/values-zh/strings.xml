@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">晚饭管理器</string>
+    <string name="add_menu_add">加！</string>
+    <string name="add_menu_name">在哪！</string>
+    <string name="main_add">加个位置！</string>
+    <string name="main_manage">给我管管这东西</string>
+    <string name="main_show">告诉老子今晚去哪吃！</string>
+</resources>

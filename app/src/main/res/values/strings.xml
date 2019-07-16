@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DinnerDecision</string>
+    <string name="main_add">Add to menu</string>
+    <string name="main_manage">Manage your menu</string>
+    <string name="main_show" >Show one to me</string>
+    <string name="add_menu_name" >Location Name</string>
+    <string name="add_menu_add">Add</string>
+</resources>
